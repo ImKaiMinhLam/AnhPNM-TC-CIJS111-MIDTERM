@@ -1,0 +1,21 @@
+{
+  "name": "anhpnm-tc-cijs111-midterm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImKaiMinhLam/AnhPNM-TC-CIJS111-MIDTERM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ImKaiMinhLam/AnhPNM-TC-CIJS111-MIDTERM/issues"
+  },
+  "homepage": "https://github.com/ImKaiMinhLam/AnhPNM-TC-CIJS111-MIDTERM#readme"
+}
